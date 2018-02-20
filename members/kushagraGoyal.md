@@ -11,3 +11,7 @@
 ## Accomplishments
 
 * I was responsible for front-end and backend web development using React and Rails for new feature implementations, functional enhancements and bug fixes to improve the user experience of the Versafleet web app.
+
+## Hobbies
+
+* Cricket, Badminton, Music
