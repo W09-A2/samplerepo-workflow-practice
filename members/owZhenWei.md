@@ -2,6 +2,8 @@
 
 ## Education
 
+* [August 2016 - Present] Bachelor of Computing(Computer Science), National University of Singapore
+
 ## Work Experience
 
 * [5 months: 2017 May - Sept] Sofware Engineering Intern, at PayPal Singapore
