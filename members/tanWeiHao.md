@@ -10,7 +10,7 @@
 
 ## Accomplishments
 
-* Made it to Year 2 NUS without dying
+* Made it to Year 2 NUS without ever dying
 
 ## Hobbies
 
